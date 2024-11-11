@@ -13,8 +13,8 @@ int main() {
   float gramTokilogram;
   float kilogramsTogram; 
   
-  printf("Welcome to Unit Converter! \n");
-  printf("Here is a list of conversation to choose from: \n");
+  printf("Unit Converter \n");
+  printf("List of conversation to choose from: \n");
   printf("Temperature(T),Mass(M) \n");
   printf("Please enter the letter you want to convert.\n");
   scanf("%c",&category);
