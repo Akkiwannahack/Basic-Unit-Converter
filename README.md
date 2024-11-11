@@ -3,7 +3,6 @@
 int main() {
   char category;
   int tempChoice;
-  int currencyChoice;
   int massChoice;
   int userinputF;
   int userinputC; 
