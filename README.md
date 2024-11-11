@@ -2,14 +2,14 @@
 
 int main() {
   char category;
-  int tempChoice;
-  int massChoice;
-  int userinputF;
-  int userinputC; 
-  int userinputgram;
-  int userinputkilogram;
-  int fahrenheitToCelcius;
-  int celciusToFahrenheit; 
+  float tempChoice;
+  float massChoice;
+  float userinputF;
+  float userinputC; 
+  float userinputgram;
+  float userinputkilogram;
+  float fahrenheitToCelcius;
+  float celciusToFahrenheit; 
   float gramTokilogram;
   float kilogramsTogram; 
   
