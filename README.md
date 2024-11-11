@@ -55,9 +55,9 @@ int main() {
       }
       else if(massChoice == 2) {
           printf("Please enter the kilogram amount: \n");
-          scanf("%d",&userinputgram);
+          scanf("%d",&userinputkilogram);
           kilogramsTogram = userinputkilogram * 1000;
-          printf("Pounds: %.2f",kilogramsTograms);
+          printf("Grams: %.2f",kilogramsTogram);
       }
       else 
         printf("Please enter the correct choice. \n");
